@@ -1,0 +1,3 @@
+this is akvitha
+this is to test read and write a file
+first it will read the file and it will write to writefile
