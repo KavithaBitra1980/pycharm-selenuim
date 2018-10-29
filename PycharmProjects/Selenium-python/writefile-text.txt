@@ -1,0 +1,8 @@
+this is akvitha
+  
+ iam adding kavitha,annanya and chandra
+this is to test read and write a file
+  
+ iam adding kavitha,annanya and chandra
+first it will read the file and it will write to writefile  
+ iam adding kavitha,annanya and chandra
