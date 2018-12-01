@@ -1,0 +1,17 @@
+#!/usr/bin/env python
+
+
+__author__ = 'Kavitha Bitra'
+__copyright__ = 'Copyright 2018.'
+__version__ = '0.0.1'
+
+
+n = int(input())
+
+arr = list(map(int, input().rstrip().split()))
+    
+
+reverse = arr[::-1]
+print(reverse)
+for i in reverse:
+    print (i,end=" ")
